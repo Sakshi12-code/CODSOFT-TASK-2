@@ -4,6 +4,9 @@ Inter Id - CT08DS7651<br/>
 Domain - Data Science<br/>
 Duration - September to October 2024<br/>
 
+![Screenshot 2024-09-21 193534](https://github.com/user-attachments/assets/52edf6fc-2ce0-4eca-8311-e7959fcb7b9e)<br/>
+
+
 **OVERVIEW OF THE PROJECT** <br/>
 The Rock, Paper, Scissors game is a simple, yet classic project often used to demonstrate basic concepts in<br/>
 programming and game development. Here's an overview of the project and the common technologies involved:<br/>
